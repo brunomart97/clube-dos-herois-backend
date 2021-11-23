@@ -1,0 +1,14 @@
+{
+  "name": "clube-dos-herois-backend",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/brunomart97/clube-dos-herois-backend.git",
+  "author": "Bruno Martins <brunomart97@hotmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/node": "^16.11.9",
+    "ts-node-dev": "^1.1.8",
+    "tsconfig-paths": "^3.12.0",
+    "typescript": "^4.5.2"
+  }
+}
